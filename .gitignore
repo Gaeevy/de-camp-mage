@@ -1,6 +1,7 @@
 ipynb_checkpoints/
 data
 v_pg_ny_taxi
+keys/
 
 .DS_Store
 .idea/
